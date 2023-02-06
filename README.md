@@ -1,6 +1,6 @@
-<p align="center"><img src="images/python_exercises.png"/></p>
+# <p align="center"><img src="images/python_exercises.png"/></p>
 
-:information_source: &nbsp;This repo contains questions and exercises to learn and practice Python
+:information_source: &nbsp;This repo contains questions and exercises to learn and practice Python.
 
 :bar_chart: &nbsp;There are currently **231** exercises and questions
 
